@@ -1,0 +1,213 @@
+,Dep,link,Dep,Course_type,ID,Course Name
+0,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Core courses,6001,Research Design and Inquiry Methods
+1,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Core courses,6002,Applied Predictive Analytics
+2,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7101,Theory of Probability and Applications
+3,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7102,Statistical Inference
+4,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7103,Statistical Graphics and Data Visualization
+5,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7104,Sampling and Survey Data Analysis
+6,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7105,Quantitative Forecasting
+7,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7106,Applied Multivariate Data Analysis
+8,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7107,Applied Categorical Data Analysis
+9,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7108,Applied Longitudinal Data Analysis
+10,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7101,Theory of Probability and Applications
+11,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7102,Statistical Inference                                                             
+12,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7201,Enterprise Risk Management
+13,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7202,Statistics for Risk Modeling
+14,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7203,Financial Mathematics
+15,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7204,Actuarial Mathematics
+16,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7205,Credibility Theory and Loss Distributions
+17,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7206,Risk Theory and Actuarial Modeling
+18,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7301,Strategic Intelligence
+19,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7302,Applied Statistical Analysis
+20,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7303,Accounting and Finance Data Sciences
+21,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7304,Marketing Data Sciences
+22,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7305,Operations Data Sciences
+23,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7306,Human Resources Data Sciences
+24,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7307,Risk Data Sciences
+25,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7103,Statistical Graphics and Data Visualization
+26,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7401,Quantitative Techniques for Decision Making
+27,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7402,Data Wrangling and Cleansing
+28,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7403,Applied Missing Data Analysis
+29,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7404,Structural Equation Modeling
+30,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7405,Multilevel Modeling
+31,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7406,Principles of Insurance
+32,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7407,Long-Term Actuarial Mathematics
+33,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7408,Survival Analysis
+34,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7409,Accounting and Corporate Finance
+35,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7410,Business Economics
+36,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7411,Investment Analysis and Portfolio Management
+37,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Elective courses,7412,Project Evaluation
+38,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Independent study,9000,Independent Study
+39,GSAS,https://as.nida.ac.th/en/as/#ตารางสอบ,AS,Independent study,9004,Thesis
+40,GSAS,https://as.nida.ac.th/en/csis/#ตารางสอบ,CI,Foundation courses,4003,Oriented Programming and Data Structures
+41,GSAS,https://as.nida.ac.th/en/csis/#ตารางสอบ,CI,Foundation courses,4004,Mathematics and Statistics for CSIS
+42,GSAS,https://as.nida.ac.th/en/csis/#ตารางสอบ,CI,Foundation courses,4005,of Computing and Information Systems
+43,GSAS,https://as.nida.ac.th/en/csis/#ตารางสอบ,CI,Foundation courses,4006,Data Management and Database Systems
+44,GSAS,https://as.nida.ac.th/en/csis/#ตารางสอบ,CI,Foundation courses,4007,Computer Science and Information Systems
+45,GSAS,https://as.nida.ac.th/en/csis/#ตารางสอบ,CI,Core courses,6101,Advanced Database Systems
+46,GSAS,https://as.nida.ac.th/en/csis/#ตารางสอบ,CI,Core courses,6102,Advanced Computer Networks
+47,GSAS,https://as.nida.ac.th/en/csis/#ตารางสอบ,CI,Core courses,6103,Cloud Computing
+48,GSAS,https://as.nida.ac.th/en/csis/#ตารางสอบ,CI,Core courses,6104,Cyber Security and Information Security Management
+49,GSAS,https://as.nida.ac.th/en/csis/#ตารางสอบ,CI,Elective courses,7101,Artificial Intelligence
+50,GSAS,https://as.nida.ac.th/en/csis/#ตารางสอบ,CI,Elective courses,7102,Machine Learning
+51,GSAS,https://as.nida.ac.th/en/csis/#ตารางสอบ,CI,Elective courses,7103,Blockchain: Smart Contracts and Decentralized Applications
+52,GSAS,https://as.nida.ac.th/en/csis/#ตารางสอบ,CI,Elective courses,7104,Internet of Things
+53,GSAS,https://as.nida.ac.th/en/csis/#ตารางสอบ,CI,Elective courses,7201,Business Process Design
+54,GSAS,https://as.nida.ac.th/en/csis/#ตารางสอบ,CI,Elective courses,7202,Distributed Systems for Information Systems Management
+55,GSAS,https://as.nida.ac.th/en/csis/#ตารางสอบ,CI,Elective courses,7203,Digital Transformation
+56,GSAS,https://as.nida.ac.th/en/csis/#ตารางสอบ,CI,Elective courses,7204,Information Systems Auditing
+57,GSAS,https://as.nida.ac.th/en/lscm/,ND,Foundation courses,4000,Foundation for Graduate Studies
+58,GSAS,https://as.nida.ac.th/en/lscm/,LC,Foundation courses,4001,Reading Skills Development in English for Graduate Studies
+59,GSAS,https://as.nida.ac.th/en/lscm/,LC,Foundation courses,4002,Integrated English Language Skills Development
+60,GSAS,https://as.nida.ac.th/en/lscm/,LC,Foundation courses,4011,Remedial Reading Skills Development in English for Graduate Studies
+61,GSAS,https://as.nida.ac.th/en/lscm/,LC,Foundation courses,4012,Remedial Integrated English Language Skills Development
+62,GSAS,https://as.nida.ac.th/en/lscm/,LM,Foundation courses,4001,Mathematics and Statistics for Logistics Management
+63,GSAS,https://as.nida.ac.th/en/lscm/,LM,Foundation courses,4002,English for Logistics Management
+64,GSAS,https://as.nida.ac.th/en/lscm/,LM,Elective courses,7101,Customer Relationship Management
+65,GSAS,https://as.nida.ac.th/en/lscm/,LM,Elective courses,7102,Supply Chain Risk Management
+66,GSAS,https://as.nida.ac.th/en/lscm/,LM,Elective courses,7103,Project Management
+67,GSAS,https://as.nida.ac.th/en/lscm/,LM,Elective courses,7201,Supply Chain Risk Management
+68,GSAS,https://as.nida.ac.th/en/lscm/,LM,Elective courses,7202,Business Intelligence and Analytics
+69,GSAS,https://as.nida.ac.th/en/lscm/,LM,Elective courses,7203,Revenue Management
+70,GSAS,https://as.nida.ac.th/en/lscm/,LM,Elective courses,7204,Business Forecasting
+71,GSAS,https://as.nida.ac.th/en/lscm/,LM,Elective courses,7301,International Logistics Management
+72,GSAS,https://as.nida.ac.th/en/lscm/,LM,Elective courses,7302,Data Envelopment Analysis in Logistics Management
+73,GSAS,https://as.nida.ac.th/en/lscm/,LM,Elective courses,7303,Activity Based Costing in Logistics Management
+74,GSAS,https://as.nida.ac.th/en/lscm/,LM,Elective courses,7401,Negotiation and Conflict Management
+75,GSAS,https://as.nida.ac.th/en/lscm/,LM,Elective courses,7402,Qualitative Research in Organizations
+76,GSAS,https://as.nida.ac.th/en/lscm/,LM,Basic courses,5001,Data Analysis and Decision Models
+77,GSAS,https://as.nida.ac.th/en/lscm/,LM,Basic courses,5002,Logistics and Supply Chain Management
+78,GSAS,https://as.nida.ac.th/en/lscm/,LM,Basic courses,5003,Management Fundamental for Logistics Personnel
+79,GSAS,https://as.nida.ac.th/en/lscm/,LM,Basic courses,5004,Information Technology for Logistics Management
+80,GSAS,https://as.nida.ac.th/en/lscm/,LM,Core courses,6001,Inventory Management
+81,GSAS,https://as.nida.ac.th/en/lscm/,LM,Core courses,6002,Warehouse Management
+82,GSAS,https://as.nida.ac.th/en/lscm/,LM,Core courses,6003,Transportation and Distribution Network Management
+83,GSAS,https://as.nida.ac.th/en/lscm/,LM,Core courses,6004,Supply Chain Management
+84,GSAS,https://as.nida.ac.th/en/lscm/,LM,Seminars and selected topics,8001,International Seminar in Logistics Management
+85,GSAS,https://as.nida.ac.th/en/lscm/,LM,Seminars and selected topics,8002,Directed Studies
+86,GSAS,https://as.nida.ac.th/en/lscm/,LM,Seminars and selected topics,8003,Directed Studies
+87,GSAS,https://as.nida.ac.th/en/lscm/,LM,Seminars and selected topics,8803,Selected Topics in Logistics Management
+88,GSAS,https://as.nida.ac.th/en/lscm/,LM,Seminars and selected topics,8806,Selected Topics in Logistics Management
+89,GSAS,https://as.nida.ac.th/en/lscm/,LM,Seminars and selected topics,8809,Selected Topics in Logistics Management
+90,GSAS,https://as.nida.ac.th/en/lscm/,LM,Independent study,9000,Independent Study
+91,GSAS,https://as.nida.ac.th/en/lscm/,LM,Independent study,9004,Thesis
+92,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ND,Foundation courses,4000,Foundation for Graduate Studies
+93,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,LC,Foundation courses,4001,Reading Skills Development in English for Graduate Studies
+94,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,LC,Foundation courses,4002,Integrated English Language Skills Development
+95,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,LC,Foundation courses,4011,Remedial Reading Skills Development in English for Graduate Studies
+96,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,LC,Foundation courses,4012,Remedial Integrated English Language Skills Development
+97,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Foundation courses,4003,English for Business Communications and Presentations
+98,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Foundation courses,4010,Database Systems and Basic Concepts of Business Applications Development
+99,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Basic courses,5010,"Enterprise IT and Emerging Technologies: ERP, Cloud, IoT, Blockchain and Fintech"
+100,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Basic courses,5020,Machine Learning and Quantitative Methods for Business Analytics
+101,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Core courses,6010,"Enterprise Data Management: Data Governance, Data Strategy, NoSQL and Big Data"
+102,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Core courses,6020,Computer Networks and Cyber Security
+103,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Core courses,6030,IT Strategic Planning and IT Projects  Management
+104,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Core courses,6040,Managerial Accounting
+105,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Core courses,6050,Human Resource Management and Organization Behavior
+106,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Core courses,6060,Marketing Management and Digital Marketing
+107,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7000,Systems Analysis and Design and Agile Methodologies
+108,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7001,Enterprise Computing and Cloud Technologies
+109,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7002,Financial Management
+110,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7003,Operations Management
+111,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7004,Economics for Management
+112,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7005,Information Technology Law
+113,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7050,Applied Analytics and Research Methodology
+114,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7051,Deep Learning and Machine Learning in Big Data Analytics
+115,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7052,Customer Relationship Management
+116,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7053,Blockchain and FinTech
+117,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7054,Enterprise Risk Management
+118,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7055,Innovation and Technopreneurship
+119,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7056,Advanced Strategic Management of IT
+120,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7057,E- Government
+121,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7058,Management Accounting and Strategic Cost Management
+122,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7059,Business Intelligence
+123,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7060,Multimedia Technologies
+124,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7061,Supply Chain Management
+125,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7062,Strategic Communication for Leadership Development
+126,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7063,Digital Business and e-Commerce Management
+127,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7064,Executive Support Systems and Decision Support Systems
+128,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Seminars and selected topics,8000,Seminar in Information Technology Management
+129,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Independent study,9000,Independent Study
+130,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Independent study,9004,Thesis
+131,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ND,Foundation courses,4000,Foundation for Graduate Studies
+132,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,LC,Foundation courses,4001,Reading Skills Development in English for Graduate Studies
+133,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,LC,Foundation courses,4002,Integrated English Language Skills Development
+134,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,LC,Foundation courses,4011,Remedial Reading Skills Development in English for Graduate Studies
+135,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,LC,Foundation courses,4012,Remedial Integrated English Language Skills Development
+136,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Foundation courses,4003,English for Business Communications and Presentations
+137,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Foundation courses,4010,Database Systems and Basic Concepts of Business Applications Development
+138,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Basic courses,5010,"Enterprise IT and Emerging Technologies: ERP, Cloud, IoT, Blockchain and Fintech"
+139,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Basic courses,5020,Machine Learning and Quantitative Methods for Business Analytics
+140,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Core courses,6010,"Enterprise Data Management: Data Governance, Data Strategy, NoSQL and Big Data"
+141,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Core courses,6020,Computer Networks and Cyber Security
+142,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Core courses,6030,IT Strategic Planning and IT Projects  Management
+143,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Core courses,6040,Managerial Accounting
+144,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Core courses,6050,Human Resource Management and Organization Behavior
+145,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Core courses,6060,Marketing Management and Digital Marketing
+146,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7000,Systems Analysis and Design and Agile Methodologies
+147,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7001,Enterprise Computing and Cloud Technologies
+148,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7002,Financial Management
+149,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7003,Operations Management
+150,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7004,Economics for Management
+151,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7005,Information Technology Law
+152,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7050,Applied Analytics and Research Methodology
+153,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7051,Deep Learning and Machine Learning in Big Data Analytics
+154,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7052,Customer Relationship Management
+155,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7053,Blockchain and FinTech
+156,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7054,Enterprise Risk Management
+157,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7055,Innovation and Technopreneurship
+158,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7056,Advanced Strategic Management of IT
+159,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7057,E- Government
+160,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7058,Management Accounting and Strategic Cost Management
+161,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7059,Business Intelligence
+162,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7060,Multimedia Technologies
+163,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7061,Supply Chain Management
+164,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7062,Strategic Communication for Leadership Development
+165,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7063,Digital Business and e-Commerce Management
+166,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Elective courses,7064,Executive Support Systems and Decision Support Systems
+167,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Seminars and selected topics,8000,Seminar in Information Technology Management
+168,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Independent study,9000,Independent Study
+169,GSAS,https://as.nida.ac.th/en/itm-2/#ตารางสอบ,ITM,Independent study,9004,Thesis
+170,GSAS,https://as.nida.ac.th/en/madt-1/,MADT,Core courses,6001,Fundamentals of Business Analytics
+171,GSAS,https://as.nida.ac.th/en/madt-1/,MADT,Core courses,6002,Introduction to Data Technologies
+172,GSAS,https://as.nida.ac.th/en/madt-1/,MADT,Core courses,6003,Professional Culture in Data Analytics
+173,GSAS,https://as.nida.ac.th/en/madt-1/,MADT,Core courses,6004,Applied Data Analytics for Business
+174,GSAS,https://as.nida.ac.th/en/madt-1/,MADT,Core courses,6005,Modern Data Management
+175,GSAS,https://as.nida.ac.th/en/madt-1/,MADT,Elective courses,7101,Advanced Business Reporting
+176,GSAS,https://as.nida.ac.th/en/madt-1/,MADT,Elective courses,7102,"Data Modeling, Transformation, and Quality Management"
+177,GSAS,https://as.nida.ac.th/en/madt-1/,MADT,Elective courses,7103,Use Cases and Case Studies in Business Analytics
+178,GSAS,https://as.nida.ac.th/en/madt-1/,MADT,Elective courses,7104,Digital Transformation with Data Analytics
+179,GSAS,https://as.nida.ac.th/en/madt-1/,MADT,Elective courses,7201,"Cloud Infrastructure: Design, Development, and Management"
+180,GSAS,https://as.nida.ac.th/en/madt-1/,MADT,Elective courses,7202,Web and Social Network Analytics Management
+181,GSAS,https://as.nida.ac.th/en/madt-1/,MADT,Elective courses,7203,Data Security in the 21st Century
+182,GSAS,https://as.nida.ac.th/en/madt-1/,MADT,Elective courses,7204,Big Data Applications - Practical Applications
+183,GSAS,https://as.nida.ac.th/en/madt-1/,MADT,Seminars and selected topics,8000,Seminar in Management of Analytics and Data Technologies
+184,GSAS,https://as.nida.ac.th/en/madt-1/,MADT,Seminars and selected topics,8101,Selected Topics in Management of Analytics and Data Technologies
+185,GSAS,https://as.nida.ac.th/en/madt-1/,MADT,Independent study,9000,Independent Study
+186,GSAS,https://as.nida.ac.th/en/madt-1/,LC,Foundation courses,4001,Reading Skills Development in English for Graduate Studies
+187,GSAS,https://as.nida.ac.th/en/madt-1/,LC,Foundation courses,4002,Integrated English Language Skills Development
+188,GSAS,https://as.nida.ac.th/en/madt-1/,LC,Foundation courses,4011,Remedial Reading Skills Development in English for Graduate Studies
+189,GSAS,https://as.nida.ac.th/en/madt-1/,LC,Foundation courses,4012,Remedial Integrated English Language Skills Development
+190,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Foundation courses,4001,Statistics and Mathematics Foundation
+191,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Foundation courses,4002,Basic Programming and Database Management
+192,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Foundation courses,4003,English for Data Analytics and Data Science
+193,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Basic courses,5001,Data Analytics and Data Science Tools and Programming
+194,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Basic courses,5002,Business Model Simulation and Design Thinking
+195,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Core courses,6001,Applied Modern Statistical Analysis
+196,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Core courses,6002 ,Big Data Analytics
+197,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Core courses,6003,Applied Machine Learning
+198,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Core courses,6004,Financial and Risk Analytics
+199,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Core courses,6005,Data Streaming and Real Time Analytics
+200,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Elective courses,7101,Customer and Marketing Analytics
+201,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Elective courses,7102,Applied Optimization and Prescriptive Analytics
+202,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Elective courses,7103,Supply Chain Analytics
+203,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Elective courses,7104,Presentational Strategies Competence Development for Business Success
+204,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Elective courses,7201,Social Network and Media Analysis
+205,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Elective courses,7202,Deep Learning
+206,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Elective courses,7203,Text Analytics and Natural Language Processing
+207,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Elective courses,7204,Reinforcement Learning and Advanced Machine Learning
+208,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Elective courses,7205,Research Design and Inquiry Methods
+209,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Elective courses,7206,Image and Video Analytics
+210,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Seminars and selected topics,8710,Selected Topics in Data Analytics and Data Science
+211,GSAS,https://as.nida.ac.th/en/dads-1/,DADS,Seminars and selected topics,8721,Seminar in Data Analytics and Data Science
